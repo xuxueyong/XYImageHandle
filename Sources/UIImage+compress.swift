@@ -1,6 +1,5 @@
 //
-//  UIImage+extension.swift
-//  testStudy+001
+//  UIImage+compress.swift
 //
 //  Created by Xuxueyong on 2019/1/11.
 //  Copyright © 2019 Xuxueyong. All rights reserved.

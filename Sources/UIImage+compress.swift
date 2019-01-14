@@ -85,7 +85,7 @@ extension UIImage {
         return resultImage
     }
     
-    /// 压缩图片尺寸， 达到压缩指定大小
+    /// 压缩质量和尺寸， 达到压缩指定大小
     ///  既能保证清晰度， 又能指定大小
     /// - Parameter maxLength: (压缩后的 字节 <= maxLength)
     /// - Returns: 压缩后的图片
